@@ -1,0 +1,54 @@
+
+
+body {
+    background-image: url("https://i1.wp.com/css-tricks.com/wp-content/uploads/2018/02/multiple-bg-images.jpg?ssl=1");
+    font-family: 'Verdana','Arial Bold';
+    font-size: 15px;
+    font-style: normal;
+    background-size: contain;
+
+}
+
+.pancake {
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    
+}
+#video {
+    display: 
+
+}
+nav {
+    display: inline;
+    font-size: 18px;
+
+}
+footer {
+    text-align: center;
+}
+.bold {
+    font-style: bold;
+}
+}
+ul li {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px
+}
+
+p {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+    
+}
