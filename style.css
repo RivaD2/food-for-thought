@@ -6,14 +6,23 @@ body {
     font-size: 15px;
     font-style: normal;
     background-size: contain;
+    text-align: center;
+
 
 }
 
 .pancake {
     text-align: center;
-    width: 250px;
-    height: 250px;
-    
+    width: 350px;
+    height: 350px;
+}
+.content {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipe {
+    text-align: left;
 }
 #video {
     display: 
@@ -30,10 +39,7 @@ footer {
 .bold {
     font-style: bold;
 }
-}
-ul li {
-    text-align: center;
-}
+
 
 h3 {
     font-size: 20px
