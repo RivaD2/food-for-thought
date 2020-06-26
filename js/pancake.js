@@ -7,27 +7,27 @@
  // }
 
 
-var hasAnswered = false
-function greeting(signupQuestion) {
-    var answer = prompt(signupQuestion)
-    if (answer === "yes") {
-        hasAnswered = true 
-      var adopt = prompt("Do you want yummy pancakes");
-        if (adopt === "yes") {
-            alert("Yay! Bring your hoisen sauce");
-        } else if(adopt === "no") {
-            alert("no pancakes for you");
-        } else {
-            alert ("Look, are you hungry or not, yes or no?")
-        }
-    } else if (answer === "no") {
-        hasAnswered = true
+// var hasAnswered = false
+// function greeting(signupQuestion) {
+//     var answer = prompt(signupQuestion)
+//     if (answer === "yes") {
+//         hasAnswered = true 
+//       var adopt = prompt("Do you want yummy pancakes");
+//         if (adopt === "yes") {
+//             alert("Yay! Bring your hoisen sauce");
+//         } else if(adopt === "no") {
+//             alert("no pancakes for you");
+//         } else {
+//             alert ("Look, are you hungry or not, yes or no?")
+//         }
+//     } else if (answer === "no") {
+//         hasAnswered = true
 
-    }
-}
- while(hasAnswered === false ) {        
- greeting("Will you sign up for monthly recipes?")
- }
+//     }
+// }
+//  while(hasAnswered === false ) {        
+//  greeting("Will you sign up for monthly recipes?")
+//  }
 
 
 var response = ""
