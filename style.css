@@ -31,6 +31,7 @@ body {
 nav {
     display: inline;
     font-size: 18px;
+    color: black;
 
 }
 footer {
@@ -55,6 +56,6 @@ h2{
 
 h3 {
     text-align: center;
-    color: teal;
+    color: #FF44AA
 }
     
