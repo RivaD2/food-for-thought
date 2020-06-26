@@ -7,7 +7,7 @@
  // }
 
 
-// var hasAnswered = false
+// /var hasAnswered = false
 // function greeting(signupQuestion) {
 //     var answer = prompt(signupQuestion)
 //     if (answer === "yes") {
